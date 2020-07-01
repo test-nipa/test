@@ -9,3 +9,5 @@
 * Item1
 * Item2
   * item3
+![Github logo](/전산장비/HDD.jpg)
+
